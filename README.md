@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=niraj23&color=green&style=flat" color=green alt="https://www.nirajpatel.tech/" /> 
  </p>
 
-- &#128214; I’m currently learning Express.
+- &#128214; I’m currently learning Typescript.
 - &#128073; I'm building ***My first Portfolio Site*** [(Check it out)](https://www.nirajpatel.tech/)
 - &#11088; I work on ***Improving my skills*** in free time.
 - &#127936; I love playing ***Basketball***.
